@@ -1,0 +1,11 @@
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\examena\examena\bin\Debug\examen.exe.config
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\examena\examena\bin\Debug\examen.exe
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\examena\examena\bin\Debug\examen.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\examena\examena\obj\x86\Debug\examen.Properties.Resources.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\examena\examena\obj\x86\Debug\examen.Usuarios.resources
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\examena\examena\obj\x86\Debug\examena.csproj.GenerateResource.Cache
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\examena\examena\obj\x86\Debug\examen.exe
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\examena\examena\obj\x86\Debug\examen.pdb
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\CoppelExamenA\CoppelExamenA\bin\Debug\examen.exe.config
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\CoppelExamenA\CoppelExamenA\obj\x86\Debug\examen.exe
+C:\Users\Desarrollo\Documents\Visual Studio 2010\Projects\CoppelExamenA\CoppelExamenA\obj\x86\Debug\examen.pdb
